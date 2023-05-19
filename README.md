@@ -1,1 +1,1 @@
-# openai_api_foren_patentbot
+# openai_api_patentbot
