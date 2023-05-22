@@ -51,8 +51,8 @@ def communicate():
 st.title("Patent Attorney Bot   -信栄２号-")
 # st.image("06_fortunetelling.png")
 st.image("patent_attorney_bot_image.jpg")
-st.write("ChatGPT APIを使ったチャットボットです。")
-st.write("知的財産に関する質問にお答えします。")
+st.write("ChatGPT APIを使ったチャットボットです。 外国の知的財産に関する質問にお答えします。")
+
 
 user_input = st.text_input("メッセージを入力してください。", key="user_input", on_change=communicate)
 
